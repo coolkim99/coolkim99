@@ -7,7 +7,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Info 
 
 - 🛠️ My tech blog is https://velog.io/@cool_kim  
   
